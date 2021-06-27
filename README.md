@@ -7,3 +7,19 @@
 [![Slack](https://img.shields.io/badge/Slack-red?style=flat-square&logo=slack)](https://co.linkedin.com/in/rodquispe)
 [![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)](https://co.linkedin.com/in/rodquispe)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://co.linkedin.com/in/rodquispe)
+
+
+```kotlin
+val rdquispe = developer {
+    about {
+        name = "Rodrigo Quispe"
+        role = "Software Engineer"
+    }
+    tech("Java", "Kotlin", "Spring Boot", "Vertx")
+    links {
+        github = "rdquispe"
+        twitter = "@rodriquispe_"
+        instagram = "rodrik.quispe"
+    }
+}
+```
