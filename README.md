@@ -7,4 +7,6 @@
 [![Slack, Rodrigo Diego Quispe Laura](https://img.shields.io/badge/Slack-red?style=flat-square&logo=slack)](https://co.linkedin.com/in/rodquispe)
 [![Docker, Rodrigo Diego Quispe Laura](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)](https://co.linkedin.com/in/rodquispe)
 [![Quarkus, Rodrigo Diego Quispe Laura](https://img.shields.io/badge/Quarkus-gray?style=flat-square&logo=quarkus)](https://co.linkedin.com/in/rodquispe)
+[![SpringBoot, Rodrigo Diego Quispe Laura](https://img.shields.io/badge/SpringBoot-gray?style=flat-square&logo=springboot)](https://co.linkedin.com/in/rodquispe)
+[![Vert.X, Rodrigo Diego Quispe Laura](https://img.shields.io/badge/Vert.X-gray?style=flat-square&logo=vert-x)](https://co.linkedin.com/in/rodquispe)
 [![Python, Rodrigo Diego Quispe Laura](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://co.linkedin.com/in/rodquispe)
